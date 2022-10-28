@@ -1,7 +1,7 @@
 # WatchIT Habit Tracking WatchOS App
 
-100 Days of SwiftUI Days 47 Milestone: Projects 7-9 
-Challenge - Build a  Habit Tracking App from scratch
+100 Days of SwiftUI Days 47 Milestone Project
+Build a  Habit Tracking App from scratch
 
 
 https://www.hackingwithswift.com/guide/ios-swiftui/4/3/challenge
